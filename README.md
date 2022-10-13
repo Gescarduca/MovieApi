@@ -2,9 +2,7 @@
 Simple Rest Movie Api
 
 Steps to run application:
-  Compile and Run, you may get an example postman collection from the following link: https://drive.google.com/file/d/1fL5sVfbM1m1k-ReKIPgP2wESyoAZPr4n/view?usp=sharing
+  Just need to compile and run the app, database used is H2 and theres is a script with basic dummy data that is inserted after hibernate creates the schema. You may get an example postman collection from the following link: https://drive.google.com/file/d/1fL5sVfbM1m1k-ReKIPgP2wESyoAZPr4n/view?usp=sharing
   
-AdditionalInfo:
-  Simple Rest Api, some basic knowledge of Spring
   
     
