@@ -1,0 +1,12 @@
+Insert into Director_Detail(id, favorite_movie) values(1,'Avatar');
+Insert into Directors(id,name, director_detail_id) values (1,'Gui',1);
+Insert into Movies (id,title,launch_date,rating,revenue,director_id) values (1,'avatar','2009-12-17',10,54513121,1);
+Insert into Movies (id,title,launch_date,rating,revenue) values (2,'django','2022-09-16',10,2548754);
+Insert into Movies (id,title,launch_date,rating,revenue) values (3,'pokemon the movie','2022-04-02',10,457864);
+Insert into Movies (id,title,launch_date,rating,revenue) values (4,'oceans 11','2022-08-08',08,165681);
+Insert into Movies (id,title,launch_date,rating,revenue) values (5,'oceans 12','2015-04-16',10,4878952);
+Insert into Movies (id,title,launch_date,rating,revenue) values (6,'oceans 13','2017-09-16',10,1214872);
+Insert into Movies (id,title,launch_date,rating,revenue) values (7,'oceans 8','2022-09-16',10,124584352);
+Insert into Movies (id,title,launch_date,rating,revenue) values (8,'A raiz do medo','2022-09-16',10,15487364);
+Insert into Movies (id,title,launch_date,rating,revenue) values (9,'Terminator','2022-09-16',10,21645745);
+Insert into Movies (id,title,launch_date,rating,revenue) values (10,'Terminator 3','2022-09-16',10,1545421);
